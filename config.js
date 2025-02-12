@@ -14,7 +14,7 @@ const CONFIG = {
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
+        hearts: ['❤️', '🍑', '🍆', '🌷', '🍒'],  // Heart emojis
         bears: ['🧸', '🐷']                       // Cute bear emojis
     },
 
@@ -22,13 +22,13 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Okay but do you like when I annoy you",                                    // First interaction
+            text: "So do you like when I annoy you",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
             secretAnswer: "It's the reason I wake up every morning ❤️"           // Secret hover message
         },
         second: {
-            text: "And how good is the püme püme action",                          // For the love meter
+            text: "Now how good is the püme püme action",                          // For the love meter
             startText: "This much 🍆",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
